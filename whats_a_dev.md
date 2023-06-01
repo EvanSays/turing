@@ -25,7 +25,7 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 
 #### Group reflection questions
 - Anything unexpected or unusual about the process?
-- What support do you need in order to prepare for tech interviews?
+- What support do you need in order to prepare and be effective during tech interviews?
 
 ## Day in the life of a developer
 
