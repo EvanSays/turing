@@ -19,7 +19,8 @@ Hi, im Evan Miller, an alum from 1703 FE. At that time we worked on our own pers
   - Take a look at my schedule.
 
 - Our sprint process
-| Week #	| Desc.	|
+
+| Week #  | Desc  |
 |-	|-	|
 | 1	 | Grooming for Sprint 2, Start Sprint 1 	|
 | 2	 | Sprint Planning for Sprint 2, Finish Sprint 1  |
