@@ -15,7 +15,7 @@ Hi, im Evan Miller, an alum from 1703 FE. At that time we worked on our own pers
 
 ## 🙀 Mock Interview
 
-### Group Prompting Questions
+#### Group Prompting Questions
 1. What do you already know about tech interviews?
 2. What would you like to learn about tech interviews
 
@@ -23,13 +23,20 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 
 [coderpad](https://coderpad.io/NJXTXX2R)
 
+#### Group reflection questions
+- Anything unexpected or unusual about the process?
+- What support do you need in order to prepare for tech interviews?
 
 ## Day in the life of a developer
 
 - Whats my schedule like?
   - Take a look at my schedule.
 
-- Our sprint process
+- What am i working on now?
+
+- Work with your manager.
+
+- Our sprint process:
 
 | Week #  | Desc  |
 |-	|-	|
@@ -40,9 +47,6 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 
 - How do promotions work?
   - Lets check out the growth map.
-
-- What is our full interview process?
- - Let's go over that.
 
 - Key wins for promotions
   - Save 💸.
@@ -61,4 +65,3 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 [Dominik of tanstack](https://twitter.com/TkDodo)
 [Felix Krause of Fastlane](https://twitter.com/KrauseFx)
 [Dan Abramov of React](https://twitter.com/dan_abramov)
-#### Learn something and share it
