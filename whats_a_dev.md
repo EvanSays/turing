@@ -58,10 +58,17 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 - Is there anything about my schedule that was different than you expected?
 - After seeing my company is there anything that changed your opinion of what type of company you would want to work for?
 
-## 🙋‍♀️ Advice
+## 👋
 
 #### Tweeters I Follow
 [Kent C Dodds of React Testing Library, Fullstack courses, and Remix](https://twitter.com/kentcdodds)
+
 [Dominik of tanstack](https://twitter.com/TkDodo)
+
 [Felix Krause of Fastlane](https://twitter.com/KrauseFx)
+
 [Dan Abramov of React](https://twitter.com/dan_abramov)
+
+#### Me
+[Email Me](mailto:hello@evansays.com)
+[LinkedIn](https://www.linkedin.com/in/evansays/)
