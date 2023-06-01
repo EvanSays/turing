@@ -21,10 +21,10 @@ Hi, im Evan Miller, an alum from 1703 FE. At that time we worked on our own pers
 - Our sprint process
 | Week #	| Desc.	|
 |-	|-	|
-| 1	| Grooming for Sprint 2, Start Sprint 1 	|
-| 2	| Sprint Planning for Sprint 2, Finish Sprint 1	|
-| 3	| Grooming for Sprint 3, Start Sprint 2 	|
-| 4	| Sprint Planning for Sprint 3, Finish Sprint 2 	|
+| 1	 | Grooming for Sprint 2, Start Sprint 1 	|
+| 2	 | Sprint Planning for Sprint 2, Finish Sprint 1  |
+| 3	 | Grooming for Sprint 3, Start Sprint 2  |
+| 4	 | Sprint Planning for Sprint 3, Finish Sprint 2 	|
 
 - How do promotions work?
   - Lets check out the growth map.
