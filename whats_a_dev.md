@@ -27,7 +27,7 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 - Anything unexpected or unusual about the process?
 - What support do you need in order to prepare and be effective during tech interviews?
 
-## Day in the life of a developer
+## 📅 Day in the life of a developer
 
 - Whats my schedule like?
   - Take a look at my schedule.
@@ -54,7 +54,7 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
   - Improvements based on data.
   - Security.
 
-## Q&A
+## 🤨 Q&A
 - Is there anything about my schedule that was different than you expected?
 - After seeing my company is there anything that changed your opinion of what type of company you would want to work for?
 
