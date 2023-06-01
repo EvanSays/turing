@@ -60,6 +60,18 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 
 ## 👋
 
+#### Books I like
+[Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=pd_bxgy_vft_none_img_sccl_1/140-5021775-2228648?pd_rd_w=vl1IM&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=W8GZP1JCZE1DNFAHX1G7&pd_rd_wg=XfuFv&pd_rd_r=fc9a6ab8-5e30-4a72-b0d2-8ed796f6bdf0&pd_rd_i=0134494164&psc=1)
+[Sprint](https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/150112174X/ref=sr_1_1?crid=2T8TU572JSZ94&keywords=sprint+book&qid=1685639910&sprefix=Sprint%2Caps%2C74&sr=8-1)
+
+#### Courses that improved my career
+[Testing Javascript](https://testingjavascript.com/)
+
+[Micro Frontends](https://www.udemy.com/course/microfrontend-course/)
+
+[React Performance](https://frontendmasters.com/courses/react-performance/)
+
+
 #### Tweeters I Follow
 [Kent C Dodds of React Testing Library, Fullstack courses, and Remix](https://twitter.com/kentcdodds)
 
@@ -69,6 +81,14 @@ Let's try a mock interview together. I'll be the interviewer and one of you will
 
 [Dan Abramov of React](https://twitter.com/dan_abramov)
 
+#### Podcasts I listen to
+[Syntax - Wes Bos](https://podcasts.apple.com/us/podcast/syntax-tasty-web-development-treats/id1253186678)
+
+[React Native Radio](https://podcasts.apple.com/us/podcast/react-native-radio/id1058647602)
+
+[The React Native Show](https://podcasts.apple.com/us/podcast/the-react-native-show-podcast/id1525543072)
+
 #### Me
 [Email Me](mailto:hello@evansays.com)
+
 [LinkedIn](https://www.linkedin.com/in/evansays/)
